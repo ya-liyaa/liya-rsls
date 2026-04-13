@@ -17,4 +17,5 @@ dalam dunia teknologi selalu ada perkembangan yang akan terjadi,dan saya ingin m
 -linux server
 -cloud computing
 
-tujuan saya kedepannya adalah terus belajar dan meningkatkan keterampilan pada bidang jaringan. 
+# Tujuan 
+saya kedepannya adalah terus belajar dan meningkatkan keterampilan pada bidang jaringan. 
